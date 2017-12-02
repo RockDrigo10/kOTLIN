@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Kotlin App</string>
+    <string name="instructions">Place your fingertip on the Home button to verify your identity</string>
+    <string name="title_activity_map_view">Map</string>
+</resources>
